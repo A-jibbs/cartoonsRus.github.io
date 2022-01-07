@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #020916;
+}
+
+#cartoons{ 
+    padding: 50px 50px 50px 50px;
+}
+
+#cartoons h5{
+    padding-top: 30px;
+    padding-bottom: 50px;
+    font-size: xx-large;
+    color: #79c142;
+}
+
+
+
+#cartoons img{
+    width:100%;
+    height: auto;
+}
+
+#cartoons a{
+    text-decoration: none;
+    color: #565c67;
+}
+
+#cartoons a h6{
+    font-weight: bold;
+}
+
+
+
+
+#cartoons a h6:hover{
+    color: #79c142;
+    transition: 0.25s;
+}
+
+#cartoons a p{
+    font-size: small;
+}
+
+
+
+#footer{
+    padding: 50px 50px 10px 50px;
+    background-color: #0a1220;
+    color: #f2f2f2;
+}
+
+#footer img{
+    width:50%;
+    height: auto;  
+}
+
+#footer a{
+    text-decoration: none;
+    color: #f2f2f2;
+}
+
+#footer ul{
+    list-style: none;
+}
+
+#footer .social li{
+    display: inline;
+    padding-right: 15px;
+    font-size: 20px;
+} 
+
+#footer .social a{
+    padding-top: 200px;
+    color: #f2f2f2;
+}
+
+#footer .social a:hover{
+    color: #B026FF;
+}
+
+#footer .social ul h6{
+    padding-bottom: 20px;
+}
+
+#footer .credits{
+    font-size: x-small;
+    color: #ccc;
+}
+
+#footer .terms{
+    font-size: small;
+}
